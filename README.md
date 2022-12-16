@@ -2,17 +2,17 @@
 
 ## Motivation:
 
-🆘 The last decade was the warmest on record according to [NOAA](https://www.noaa.gov/) temperature data. 🌡️ Due to alarming facts about climate change, [Gustavo](https://www.linkedin.com/in/gustavo-urib/) and [Sandro](https://www.linkedin.com/in/sandroagama/) decided to analyze the behavior of one of the most important climate variables: Temperature.
+🆘 The last decade was the warmest on record according to [NOAA](https://www.noaa.gov/) temperature data. Due to alarming facts about climate change, [Gustavo](https://www.linkedin.com/in/gustavo-urib/) and [Sandro](https://www.linkedin.com/in/sandroagama/) decided to analyze the behavior of one of the most important climate variables: Temperature.
 
 ## Data source:
 
-📚 Searching for sources of information about temperature, we found the [Python](https://www.python.org/) 🐍 library [Meteostat](https://dev.meteostat.net/python/) that provides easy access to open climate data obtained from national weather services like the [NOAA: National Oceanic & Atmospheric Administration](https://www.noaa.gov/) and [Deutscher Wetterdienst](https://www.dwd.de/EN/Home/home_node.html), and gathered by members of the [World Meteorological Organization](https://public.wmo.int/en).
+Searching for sources of information about temperature, we found the [Python](https://www.python.org/) library [Meteostat](https://dev.meteostat.net/python/) that provides easy access to open climate data obtained from national weather services like the [NOAA: National Oceanic & Atmospheric Administration](https://www.noaa.gov/) and [Deutscher Wetterdienst](https://www.dwd.de/EN/Home/home_node.html), and gathered by members of the [World Meteorological Organization](https://public.wmo.int/en).
 
-📈 [Meteostat](https://dev.meteostat.net/python/) allows you to get [temperature](https://dev.meteostat.net/python/daily.html#data-structure) time series data (among other variables) of a certain geographic location if you provide its latitude, longitude and altitude.
+[Meteostat](https://dev.meteostat.net/python/) allows you to get [temperature](https://dev.meteostat.net/python/daily.html#data-structure) time series data (among other variables) of a certain geographic location if you provide its latitude, longitude and altitude.
 
 ## Project:
 
-🌎 In order to find specific insights, they concluded by delimiting and analyzing the behavior of temperature in [the regions of Peru](https://en.wikipedia.org/wiki/Regions_of_Peru), which is why we divided the project into:
+In order to find specific insights, they concluded by delimiting and analyzing the behavior of temperature in [the regions of Peru](https://en.wikipedia.org/wiki/Regions_of_Peru), which is why we divided the project into:
 
 ### *Part 1️: [Web scraping of latitude, longitude and altitude](https://www.linkedin.com/feed/update/urn:li:activity:7009576008534085632/)*
 
