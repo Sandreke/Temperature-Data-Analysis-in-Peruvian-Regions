@@ -22,7 +22,7 @@ You have to provide latitude, longitude and altitude of each capital of the 25 p
 + Page 2️ - Latitude (°) and longitude (°) of each capital: [Geodatos](https://www.geodatos.net/coordenadas/peru/)
 + Page 3️ - Altitude (m.a.s.l.) of each capital: [INEI](https://www.inei.gob.pe/media/MenuRecursivo/publicaciones_digitales/Est/Lib1253/cap01/cap01012.xls)
 
-> *Deliverable: 1_get_coordinates*
+> *Deliverable: 1_get_coordinates.ipynb*
 
 ### *Part 2: Web scraping of temperature in peruvian regions through Meteostat*
 
