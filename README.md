@@ -18,10 +18,13 @@
 
 You have to provide latitude, longitude and altitude of each capital of the 25 peruvian regions. So, we decided to web scrape 3 internet pages and merge their data using [Python](https://www.python.org/) 🐍 because this geographic information that is not on any internet page
 
-1. 25 regions and their capitals: [Sport-histoire](https://www.sport-histoire.fr/)
 <br>
-2️. Latitude (°) and longitude (°) of each capital: [Geodatos](https://www.geodatos.net/)
-3️. Altitude (m.a.s.l.) of each capital: [INEI](https://www.gob.pe/inei/)
+Page 1. 25 regions and their capitals: [Sport-histoire](https://www.sport-histoire.fr/es/Geografia/Lista_departamentos_regiones_Peru.php)
+<br>
+Page 2️. Latitude (°) and longitude (°) of each capital: [Geodatos](https://www.geodatos.net/coordenadas/peru/)
+<br>
+Page 3️. Altitude (m.a.s.l.) of each capital: [INEI](https://www.inei.gob.pe/media/MenuRecursivo/publicaciones_digitales/Est/Lib1253/cap01/cap01012.xls)
+<br>
 
 ### Part 2: Web scraping of temperature in peruvian regions through Meteostat
 
