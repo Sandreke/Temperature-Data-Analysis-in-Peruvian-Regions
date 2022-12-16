@@ -14,7 +14,7 @@
 
 🌎 In order to find specific insights, they concluded by delimiting and analyzing the behavior of temperature in [the regions of Peru](https://en.wikipedia.org/wiki/Regions_of_Peru), which is why we divided the project into:
 
-### Part 1️: [Web scraping of latitude, longitude and altitude](https://www.linkedin.com/feed/update/urn:li:activity:7009576008534085632/)
+### *Part 1️: [Web scraping of latitude, longitude and altitude](https://www.linkedin.com/feed/update/urn:li:activity:7009576008534085632/)*
 
 You have to provide latitude, longitude and altitude of each capital of the 25 peruvian regions. So, we decided to web scrape 3 internet pages and merge their data using [Python](https://www.python.org/) 🐍 because this geographic information that is not on any internet page
 
@@ -22,10 +22,10 @@ You have to provide latitude, longitude and altitude of each capital of the 25 p
 * Page 2️. Latitude (°) and longitude (°) of each capital: [Geodatos](https://www.geodatos.net/coordenadas/peru/)
 * Page 3️. Altitude (m.a.s.l.) of each capital: [INEI](https://www.inei.gob.pe/media/MenuRecursivo/publicaciones_digitales/Est/Lib1253/cap01/cap01012.xls)
 
-### Part 2: Web scraping of temperature in peruvian regions through Meteostat
+### *Part 2: Web scraping of temperature in peruvian regions through Meteostat*
 
-### Part 3: Data visualization of temperature time series using Tableau
+### *Part 3: Data visualization of temperature time series using Tableau*
 
-### Part 4: Descriptive analytics of temperature in peruvian regions
+### *Part 4: Descriptive analytics of temperature in peruvian regions*
 
-### Part 5: Forecasting of temperature time series in peruvian regions
+### *Part 5: Forecasting of temperature time series in peruvian regions*
