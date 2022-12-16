@@ -16,7 +16,7 @@ In order to find specific insights, they concluded by delimiting and analyzing t
 
 ### *Part 1️: [Web scraping of latitude, longitude and altitude](https://www.linkedin.com/feed/update/urn:li:activity:7009576008534085632/)*
 
-You have to provide latitude, longitude and altitude of each capital of the 25 peruvian regions. So, we decided to web scrape 3 internet pages and merge their data using [Python](https://www.python.org/) 🐍 because this geographic information that is not on any internet page
+You have to provide latitude, longitude and altitude of each capital of the 25 peruvian regions. So, we decided to web scrape 3 internet pages and merge their data with [Python](https://www.python.org/) 🐍 using [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) and [Requests](https://requests.readthedocs.io/en/latest/user/quickstart/) libraries because this geographic information that is not on any internet page
 
 + Page 1 - 25 regions and their capitals: [Sport-histoire](https://www.sport-histoire.fr/es/Geografia/Lista_departamentos_regiones_Peru.php)
 + Page 2️ - Latitude (°) and longitude (°) of each capital: [Geodatos](https://www.geodatos.net/coordenadas/peru/)
