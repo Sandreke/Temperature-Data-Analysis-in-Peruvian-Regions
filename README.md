@@ -12,7 +12,7 @@
 
 ## Project:
 
-🌎 In order to find specific insights, we concluded by delimiting and analyzing the behavior of temperature in [the regions of Peru](https://en.wikipedia.org/wiki/Regions_of_Peru), which is why we divided the project into:
+🌎 In order to find specific insights, they concluded by delimiting and analyzing the behavior of temperature in [the regions of Peru](https://en.wikipedia.org/wiki/Regions_of_Peru), which is why we divided the project into:
 
 ### Part 1️: [Web scraping of latitude, longitude and altitude](https://www.linkedin.com/feed/update/urn:li:activity:7009576008534085632/)
 
