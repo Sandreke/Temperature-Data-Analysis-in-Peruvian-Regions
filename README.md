@@ -20,11 +20,11 @@ You have to provide latitude, longitude and altitude of each capital of the 25 p
 
 1. 25 regions and their capitals: [Sport-histoire](https://www.sport-histoire.fr/)
 2️. Latitude (°) and longitude (°) of each capital: [Geodatos](https://www.geodatos.net/)
-3️. Altitude (m.s.n.m.) of each capital: [INEI](https://www.gob.pe/inei/)
+3️. Altitude (m.a.s.l.) of each capital: [INEI](https://www.gob.pe/inei/)
 
 ### Part 2: Web scraping of temperature in peruvian regions through Meteostat
 
-### Part 3: Data visualization of temperature time series using #Tableau
+### Part 3: Data visualization of temperature time series using Tableau
 
 ### Part 4: Descriptive analytics of temperature in peruvian regions
 
