@@ -1,6 +1,6 @@
 # Temperature-Data-Analysis-in-Peruvian-Regions
 
-## 💪Motivation:
+## 🌡️ Motivation:
 
 The last decade was the warmest on record according to [NOAA](https://www.noaa.gov/) temperature data. Due to alarming facts about climate change, [Gustavo](https://www.linkedin.com/in/gustavo-urib/) and [Sandro](https://www.linkedin.com/in/sandroagama/) decided to analyze the behavior of one of the most important climate variables: Temperature.
 
