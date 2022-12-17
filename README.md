@@ -22,7 +22,7 @@ You have to provide latitude, longitude and altitude of each capital of the 25 p
 + Page 2️ - Latitude (°) and longitude (°) of each capital: [Geodatos](https://www.geodatos.net/coordenadas/peru/)
 + Page 3️ - Altitude (m.a.s.l.) of each capital: [INEI](https://www.inei.gob.pe/media/MenuRecursivo/publicaciones_digitales/Est/Lib1253/cap01/cap01012.xls)
 
-#### *Ouput:*
+#### Ouput:
 
 <img src="https://user-images.githubusercontent.com/64377961/208211112-2252d14a-384d-48d5-a6b9-dc638581ece8.jpg" width="500">
 
