@@ -18,9 +18,12 @@ In order to find specific insights, they concluded by delimiting and analyzing t
 
 You have to provide latitude, longitude and altitude of each capital of the 25 peruvian regions. So, we decided to web scrape 3 internet pages and merge their data with [Python](https://www.python.org/) 🐍 using [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) and [Requests](https://requests.readthedocs.io/en/latest/user/quickstart/) libraries because this geographic information that is not on any internet page
 
-+ Page 1 - 25 regions and their capitals: [Sport-histoire](https://www.sport-histoire.fr/es/Geografia/Lista_departamentos_regiones_Peru.php)
++ Page 1 - 25 regions (and Lima province) and their capitals: [Sport-histoire](https://www.sport-histoire.fr/es/Geografia/Lista_departamentos_regiones_Peru.php)
 + Page 2️ - Latitude (°) and longitude (°) of each capital: [Geodatos](https://www.geodatos.net/coordenadas/peru/)
 + Page 3️ - Altitude (m.a.s.l.) of each capital: [INEI](https://www.inei.gob.pe/media/MenuRecursivo/publicaciones_digitales/Est/Lib1253/cap01/cap01012.xls)
+
+*Ouput:*
+<img src="https://user-images.githubusercontent.com/64377961/208211112-2252d14a-384d-48d5-a6b9-dc638581ece8.jpg" width="500" height="500">
 
 > *Deliverable: 1_get_coordinates.ipynb*
 
